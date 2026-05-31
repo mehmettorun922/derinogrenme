@@ -23,6 +23,7 @@ Eğitim Eğrileri
 Karışıklık Matrisi
 ![Karışıklık Matrisi](confusion_matrix.png)
 ![Training](training0.png)
+
 🎯 Tahmin Örneği
 Modelin bu görsel üzerindeki sonucu:
 Sınıf: Patates Yaprağı (Potato leaf)
