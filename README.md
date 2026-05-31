@@ -26,7 +26,7 @@ Karışıklık Matrisi
 Modelin bu görsel üzerindeki sonucu:
 Sınıf: Patates Yaprağı (Potato leaf)
 Güven:███████████████████ %67.7
-
+![Training](training1.png)
 ## 2. PlantVillage Veri Kümesi (Güncel Çalışma)
 
 Bu bölümde, bitki hastalıklarını sınıflandırmak için yaygın olarak kullanılan PlantVillage veri kümesi üzerinde yapılan çalışmalar detaylandırılmıştır. Veri kümesi, farklı bitki türlerinin sağlıklı ve hastalıklı yaprak görsellerini içerir ve her sınıf, dizin yapıları aracılığıyla tanımlanmıştır.
@@ -77,5 +77,6 @@ Eğitilen model, tekil görseller üzerinde tahmin yapmak için de kullanılabil
 
   → Sonuç: Pepper__bell___Bacterial_spot  (%95.0)
 ```
+![Training](training2.png)
 
 Bu çalışma, PlantVillage veri kümesiyle bitki hastalıklarının yüksek doğrulukla teşhis edilebileceğini göstermektedir. Elde edilen model, bitki hastalıklarının erken tespiti ve yönetimi konusunda önemli bir potansiyele sahiptir.
