@@ -6,13 +6,19 @@ Bu proje, **PlantDoc** veri setini kullanarak bitki yapraklarındaki hastalıkla
 - **Model Mimarisi:** EfficientNet-B3 (Transfer Learning).
 - **Hız:** Mixed Precision (AMP) ile GPU optimizasyonu.
 - **Yerelleştirme:** 30 sınıf için Türkçe dil desteği.
-- **Optimizasyon:** Warmup + Cosine Annealing LR Scheduler.
+
+## 📸 Örnek Veri (Dataset)
+Eğitim setinden bir örnek (Patates Yaprağı):
+![Patates Yaprağı](sample_potato_leaf.jpg)
 
 ## 📊 Görsel Sonuçlar
+### Eğitim Eğrileri
 ![Eğitim Eğrileri](training_curves.png)
+
+### Karışıklık Matrisi
 ![Karışıklık Matrisi](confusion_matrix.png)
 
-## 🎯 Örnek Çıktı
-Modelin bir tahmin örneği:
-- **Sınıf:** Üzüm Yaprağı Kara Çürüklüğü
-- **Güven:** %82.8
+## 🎯 Tahmin Örneği
+Modelin bu görsel üzerindeki sonucu:
+- **Sınıf:** Patates Yaprağı (Potato leaf)
+- **Güven:** %67.7
