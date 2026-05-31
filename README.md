@@ -1,6 +1,7 @@
 
 # Bitki Hastalığı Teşhisi: PlantDoc ve PlantVillage Veri Kümeleri
-
+PlantVillage colab link: https://colab.research.google.com/drive/1mJoJKyPytvKsIe2DQ-IYkseezblqTlF4?usp=sharing
+PlantDoc colab link    : https://colab.research.google.com/drive/1G0zyMs4xtJp8WKKJmOrdabOEuCsjv3w8?usp=sharing
 Bu proje, çeşitli bitki hastalıklarını tespit etmek için derin öğrenme modellerini kullanmaktadır. İki ana veri kümesi üzerinde çalışılmıştır: PlantDoc ve PlantVillage. Her iki veri kümesi için de ayrı ayrı model geliştirme ve değerlendirme süreçleri aşağıda özetlenmiştir.
 
 ## 1. PlantDoc Veri Kümesi (İlk Çalışma)
