@@ -9,7 +9,7 @@ Bu proje, çeşitli bitki hastalıklarını tespit etmek için derin öğrenme m
 ## 1. PlantDoc Veri Kümesi (İlk Çalışma)
 
 🌿 PlantDoc: Bitki Hastalığı Sınıflandırma Sistemi
-Bu proje, PlantDoc veri setini kullanarak bitki yapraklarındaki hastalıkları tespit etmek için geliştirilmiş, derin öğrenme tabanlı bir sınıflandırma modelidir.
+Bu proje, PlantDoc veri setini kullanarak bitki yapraklarındaki hastalıkları tespit etmek için geliştirilmiş, derin öğrenme tabanlı bir sınıflandırma modelidir.      
 🚀 Öne Çıkan Özellikler
 Model Mimarisi: EfficientNet-B3 (Transfer Learning).
 Hız: Mixed Precision (AMP) ile GPU optimizasyonu.
@@ -25,8 +25,8 @@ Karışıklık Matrisi
 🎯 Tahmin Örneği
 Modelin bu görsel üzerindeki sonucu:
 Sınıf: Patates Yaprağı (Potato leaf)
-Güven: %67.7
-training.png
+Güven:███████████████████ %67.7
+
 ## 2. PlantVillage Veri Kümesi (Güncel Çalışma)
 
 Bu bölümde, bitki hastalıklarını sınıflandırmak için yaygın olarak kullanılan PlantVillage veri kümesi üzerinde yapılan çalışmalar detaylandırılmıştır. Veri kümesi, farklı bitki türlerinin sağlıklı ve hastalıklı yaprak görsellerini içerir ve her sınıf, dizin yapıları aracılığıyla tanımlanmıştır.
