@@ -58,6 +58,9 @@ Modelin test seti üzerindeki performansını detaylandıran karmaşıklık matr
 
 ### 2.3. Görsel Tahmin Örneği
 
+![Tahmin Örneği](prediction_example.JPG)
+
+
 Eğitilen model, tekil görseller üzerinde tahmin yapmak için de kullanılabilmektedir. Aşağıda, `Pepper__bell___Bacterial_spot` sınıfına ait bir görsel için yapılan tahmin örneği ve sonuçları yer almaktadır:
 
 ```
