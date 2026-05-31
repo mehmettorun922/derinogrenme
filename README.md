@@ -22,11 +22,12 @@ Eğitim Eğrileri
 ![Eğitim Eğrileri](training_curves.png)
 Karışıklık Matrisi
 ![Karışıklık Matrisi](confusion_matrix.png)
+![Training](training1.png)
 🎯 Tahmin Örneği
 Modelin bu görsel üzerindeki sonucu:
 Sınıf: Patates Yaprağı (Potato leaf)
 Güven:███████████████████ %67.7
-![Training](training1.png)
+
 
 
 ## 2. PlantVillage Veri Kümesi (Güncel Çalışma)
