@@ -1,4 +1,4 @@
-
+Derin Öğrenme :Mehmet Torun 24370031081
 # Bitki Hastalığı Teşhisi: PlantDoc ve PlantVillage Veri Kümeleri
 PlantVillage colab link: https://colab.research.google.com/drive/1mJoJKyPytvKsIe2DQ-IYkseezblqTlF4?usp=sharing
 
